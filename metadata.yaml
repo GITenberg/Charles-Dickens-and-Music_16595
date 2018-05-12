@@ -1,0 +1,28 @@
+_repo: Charles-Dickens-and-Music_16595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lightwood, James T. (James Thomas)
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '6811'
+    url: http://www.gutenberg.org/2009/agents/6811
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870 -- Knowledge -- Music'
+- !lcc 'ML'
+- !lcsh 'Music and literature'
+title: Charles Dickens and Music
+url: http://www.gutenberg.org/ebooks/16595
